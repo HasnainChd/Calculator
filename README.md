@@ -2,8 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started<img width="198" alt="2" src="https://github.com/HasnainChd/Calculator/assets/153092505/6d8c4fd8-51ab-4979-b456-d35eeeada000">
-
+## Getting Started
 
 This project is a starting point for a Flutter application.
 
