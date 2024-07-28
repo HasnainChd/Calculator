@@ -1,6 +1,5 @@
 # calculator
 
-Uploading calculator.mp4…
 
 r_app
 
